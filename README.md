@@ -1,11 +1,10 @@
 # BoBO的网络备忘录
-* 这是一个导航页，只发BoBO上网时学习到的干货，慢慢补充优化！    
-* 注意：本页面大部分链接需要翻墙访问        
+* 这是一个导航页，只发自己用到的工具，不接受任何建议！       
 * [ip111.cn全方位查询您的IP地址](http://www.ip111.cn/) 
 * [天梯图:显卡](http://cdn.malu.me/gpu/) | [CPU](http://cdn.malu.me/cpu)               
 
 ## 常用网站地址 
-* [Google](https://wwww.google.com)       
+* [Google](https://www.google.com)       
 * [Youtube](https://www.youtube.com)          
 * [Unreal Engine](https://www.unrealengine.com/)     
            
