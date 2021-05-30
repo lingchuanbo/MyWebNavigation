@@ -1,5 +1,6 @@
 # BoBO的网络备忘录
-* 这是一个导航页，只发自己用到的工具，不接受任何建议！       
+* 这是一个导航页，只发自己用到的工具，不接受任何建议！   
+
 * [ip111.cn全方位查询您的IP地址](http://www.ip111.cn/) 
 * [天梯图:显卡](http://cdn.malu.me/gpu/) | [CPU](http://cdn.malu.me/cpu)               
 
@@ -12,8 +13,7 @@
          
 ### Windows10/必装   
 
-* [官方win10下载地址](https://www.microsoft.com/zh-cn/softwa
-re-download/windows10)      
+* [官方win10下载地址](https://www.microsoft.com/zh-cn/software-download/windows10)      
 * [非官方Win系统下载](https://msdn.itellyou.cn/)
 * [必装.运行库](https://ghpym.lanzoui.com/b00ze15ab)
 * [必装.Net运行库](https://ghpym.lanzoui.com/b00zgy1tg)
