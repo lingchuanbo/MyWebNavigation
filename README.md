@@ -36,8 +36,7 @@
 * [输入法:小狼毫](https://rime.im/)
 * [输入法:小狼毫四叶草](https://github.com/fkxxyz/rime-cloverpinyin)
 * [安全:火绒](https://www.huorong.cn/)
-
-    
+* [远程:Rustdesk](https://rustdesk.com/zh/)
 
 ### 安卓
 * [海阔视界.浏览器.TV](https://haikuo.lanzoux.com/u/GoldRiver)
